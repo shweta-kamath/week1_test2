@@ -7,3 +7,4 @@ print("hello, my name is Shweta")
 x=25
 y=10
 print(x*y)
+print("thisis cool")
