@@ -12,3 +12,7 @@ print("thisis cool")
 # desiree starts writting
 print("hello, my name is Desiree")
 print(x+y)
+
+print(x+10)
+
+print('End')
